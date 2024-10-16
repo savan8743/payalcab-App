@@ -64,7 +64,7 @@ const AirportDetails = () => {
         <div>
         <div className='grid lg:grid-cols-6 sm:grid-cols-1 mx-5 px-7 mt-5 py-5 rounded-lg shadow-lg bg-gray-100'>
             <div>
-                <h1 className='text-[23px] font-semibold'>Booking Type</h1>
+                <h1 className='text-[23px] font-semibold'>Booking Type---------</h1>
                 <h2 className='text-orange-500 font-semibold'>{selectedPackage}</h2>
             </div>
             <div>
